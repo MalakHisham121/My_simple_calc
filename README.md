@@ -25,17 +25,17 @@ A user-friendly, responsive calculator built using **HTML**, **CSS**, and **Java
 
 ## Code Overview
 
-### HTML (`index.html`)
+### HTML (`simple_calc.html`)
 
 - Defines the structure of the calculator interface.
 - Includes buttons for digits (0–9), operations (+, -, *, /), and functionalities like clear (`C`) and equals (`=`).
 
-### CSS (`style.css`)
+### CSS (`calc.css`)
 
 - Provides styling for the calculator layout, button alignment, and responsive design.
 - Ensures the calculator looks visually appealing and works well across devices.
 
-### JavaScript (`script.js`)
+### JavaScript (`simple_calc.js`)
 
 - Handles user interactions, such as button clicks.
 - Performs calculations based on the selected operation and displays the result.
